@@ -1049,7 +1049,7 @@
     top: 47px;
     width: 57px;
     height: 57px;
-    background: url(../images/arrow-up.svg)no-repeat center center/contain;
+    background: url(../images/go.svg)no-repeat center center/contain;
     transition: 0.5s;
 }
 
@@ -1262,7 +1262,7 @@
         top: 47px;
         width: 57px;
         height: 57px;
-        background: url(../images/arrow-up.svg)no-repeat center center/contain;
+        background: url(../images/go.svg)no-repeat center center/contain;
         transition: 0.5s;
 
         /* r */
@@ -1493,7 +1493,7 @@
         top: 47px;
         width: 57px;
         height: 57px;
-        background: url(../images/arrow-up.svg)no-repeat center center/contain;
+        background: url(../images/go.svg)no-repeat center center/contain;
         transition: 0.5s;
 
         /* r */
